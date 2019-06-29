@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "414510343351",
+    "firebase_url": "https://favorchapelint.firebaseio.com",
+    "project_id": "favorchapelint",
+    "storage_bucket": "favorchapelint.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414510343351:android:098388a432cf4b3b",
+        "android_client_info": {
+          "package_name": "com.example.firebaseexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414510343351-tebncl32a5ff81bem0r1h43ju8fi76fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvZ6VYYCb9IcGKI09ee7Gy2I_Pr_xBxz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414510343351-tebncl32a5ff81bem0r1h43ju8fi76fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414510343351:android:ad5b6781a9bfbb06",
+        "android_client_info": {
+          "package_name": "com.favor_chapel_international"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414510343351-tebncl32a5ff81bem0r1h43ju8fi76fl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvZ6VYYCb9IcGKI09ee7Gy2I_Pr_xBxz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414510343351-tebncl32a5ff81bem0r1h43ju8fi76fl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

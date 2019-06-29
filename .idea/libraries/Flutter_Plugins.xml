@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="Flutter Plugins" type="FlutterPluginsLibraryType">
+    <CLASSES>
+      <root url="file://G:/Flutter Development/flutter 1.5/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-0.5.16" />
+      <root url="file://G:/Flutter Development/flutter 1.5/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-5.0.3" />
+      <root url="file://G:/Flutter Development/flutter 1.5/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_database-3.0.2" />
+      <root url="file://G:/Flutter Development/flutter 1.5/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.0+5" />
+      <root url="file://G:/Flutter Development/flutter 1.5/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker_ui-0.1.2" />
+      <root url="file://G:/Flutter Development/flutter 1.5/flutter/.pub-cache/hosted/pub.dartlang.org/image_cropper-0.0.9" />
+      <root url="file://G:/Flutter Development/flutter 1.5/flutter/.pub-cache/hosted/pub.dartlang.org/image_picker-0.4.12+1" />
+      <root url="file://G:/Flutter Development/flutter 1.5/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.0.1" />
+      <root url="file://G:/Flutter Development/flutter 1.5/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-0.5.0+1" />
+      <root url="file://G:/Flutter Development/flutter 1.5/flutter/.pub-cache/hosted/pub.dartlang.org/sqflite-1.1.5" />
+      <root url="file://G:/Flutter Development/flutter 1.5/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_share_me-0.2.1" />
+      <root url="file://G:/Flutter Development/flutter 1.5/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-0.5.3+1" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,4 @@
+#Fri Jun 21 17:34:05 GMT 2019
+base.0=G\:\\Android Development\\Projects\\favor_chapel_international\\build\\app\\intermediates\\transforms\\dexMerger\\release\\0
+path.0=classes.dex
+renamed.0=classes.dex
